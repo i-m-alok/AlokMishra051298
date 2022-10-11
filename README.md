@@ -1,6 +1,4 @@
-# 💫 About Me:
-I'm working as a Frontend-Engineer.
-
+![Beige Grey Vlogger YouTube Banner](https://user-images.githubusercontent.com/46258899/195109643-a7f350bb-ac35-4b18-b6e9-888fc7c33a22.png)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alok-mishra98/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCSos_jXdo44fiCBf_plqyLA) 
